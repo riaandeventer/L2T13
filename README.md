@@ -24,7 +24,7 @@ The management program can be used by a bookstore clerk. The program allows the 
 * After initial load, you will notice the database file ebookstore_db in the folder.
 * Database is called ebookstore and a table called books. The table has the following structure:
 
-|id     | Title                                     | Author             | Qty  |
+|Id     | Title                                     | Author             | Qty  |
 |-------|-------------------------------------------|--------------------|------|
 |3001   | A Tale of Two Cities                      | Charles Dickens    | 30   |
 |3002   | Harry Potter and the Philosopher's Stone  | J.K. Rowling       | 40   |
