@@ -23,12 +23,14 @@ The management program can be used by a bookstore clerk. The program allows the 
 * The program will read in this file through a menu option and the database with table will be created or updated if it already exists.
 * After initial load, you will notice the database file ebookstore_db in the folder.
 * Database is called ebookstore and a table called books. The table has the following structure:
-#   id      Title                                       Author              Qty
-#   3001    A Tale of Two Cities                        Charles Dickens     30
-#   3002    Harry Potter and the Philosopher's Stone    J.K. Rowling        40
-#   3003    The Lion, the Witch and the Wardrobe        C. S. Lewis         25
-#   3004    The Lord of the Rings                       J.R.R Tolkien       37
-#   3005    Alice in Wonderland                         Lewis Carroll       12
+
+|id     | Title                                     | Author             | Qty  |
+|-------|-------------------------------------------|--------------------|------|
+|3001   | A Tale of Two Cities                      | Charles Dickens    | 30   |
+|3002   | Harry Potter and the Philosopher's Stone  | J.K. Rowling       | 40   |
+|3003   | The Lion, the Witch and the Wardrobe      | C. S. Lewis        | 25   |
+|3004   | The Lord of the Rings                     | J.R.R Tolkien      | 37   |
+|3005   | Alice in Wonderland                       | Lewis Carroll      | 12   |
 
 ### Executing program
 
