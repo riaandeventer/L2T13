@@ -10,7 +10,7 @@ The management program can be used by a bookstore clerk. The program allows the 
 * delete books from the database
 * search the database to find a specific book.
 
-## Getting Started
+## Table of Content
 
 ### Dependencies
 
@@ -36,13 +36,6 @@ The management program can be used by a bookstore clerk. The program allows the 
 * Step-by-step bullets
 ```
 code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
 ```
 
 ## Authors
