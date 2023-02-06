@@ -1,15 +1,14 @@
-# Management of Books in a Bookstore.
+# Bookstore Management Program
 
-Simple overview of use/purpose.
+This program helps the clerk in the bookstore to keep track of the books in the store.
 
 ## Description
 
-The management program can be used by a bookstore clerk. 
-    The program allows the clerk to:
-      * add new books to the database
-      * update book information
-      * delete books from the database
-      * search the database to find a specific book.
+The management program can be used by a bookstore clerk. The program allows the clerk to:
+* add new books to the database
+* update book information
+* delete books from the database
+* search the database to find a specific book.
 
 ## Getting Started
 
