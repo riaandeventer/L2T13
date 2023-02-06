@@ -37,7 +37,7 @@ The management program can be used by a bookstore clerk. The program allows the 
 * Run the program
 * You will see the menu.
 ```
-![Main Menu](images/1.jpg?raw=true "Main Menu")
+![Main Menu](./images/1.jpg?raw=true "Main Menu")
 ```
 
 ## Authors
