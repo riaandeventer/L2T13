@@ -38,9 +38,15 @@ The management program can be used by a bookstore clerk. The program allows the 
 * You will see the menu.
 
 ![Main Menu](/images/1.jpg)
-```
-![Main Menu](/images/1.jpg)
-```
+
+* Menu Option 6: Start here to load the database or reset it in the future.
+* Menu Option 1: This will straight display all the books in the inventory.
+* Menu Option 2: This will request an identification number for the book, then book title, author and quantity you have available.
+* Menu Option 3: You need the id of a book to update the title, author or quantity available. Use Menu Option 1 to get id number.
+* Menu Option 4: Remove a book from you inventory by providing the id of the book. Use Menu Option 1 to get the id number.
+* Menu Option 5: Search for books with below menu.
+
+![Main Menu](/images/2.jpg)
 
 ## Authors
 
