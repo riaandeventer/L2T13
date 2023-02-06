@@ -48,7 +48,7 @@ The management program can be used by a bookstore clerk. The program allows the 
 
 ![Main Menu](/images/2.jpg)
 
-* Menu Option 5: With option 3 you can search for books with stock less than a certain number.
+* Menu Option 5: With submenu option 4 you can search for books with stock less than a certain number.
 
 ## Authors
 
