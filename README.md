@@ -40,7 +40,4 @@ code blocks for commands
 
 ## Authors
 
-Contributor names and contact info:
-
-Riaan Deventer  
-[@riaandeventer](https://twitter.com/riaandeventer)
+Riaan Deventer  - [@riaandeventer](https://twitter.com/riaandeventer)
