@@ -11,12 +11,15 @@ The management program can be used by a bookstore clerk. The program allows the 
 * search the database to find a specific book.
 
 ## Table of Content
+1. Installation
+2. Executing Program
+3. Authors
 
 ### Dependencies
 
 * This program uses the tabulate function and sqlite3.
 
-### Installing
+### Installation
 
 * Create the executable from ebookstore.py and place in same folder as InventoryReset.txt
 * The file InventoryReset.txt contains the book data that you want to load initially. Update the information detail and note the format.
@@ -32,7 +35,7 @@ The management program can be used by a bookstore clerk. The program allows the 
 |3004   | The Lord of the Rings                     | J.R.R Tolkien      | 37   |
 |3005   | Alice in Wonderland                       | Lewis Carroll      | 12   |
 
-### Executing program
+### Executing Program
 
 * Run the program
 * You will see the menu.
