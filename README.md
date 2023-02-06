@@ -35,9 +35,9 @@ The management program can be used by a bookstore clerk. The program allows the 
 ### Executing program
 
 * Run the program
-* Step-by-step bullets
+* You will see the menu.
 ```
-code blocks for commands
+![Main Menu](images/1.jpg?raw=true "Main Menu")
 ```
 
 ## Authors
