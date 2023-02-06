@@ -34,7 +34,7 @@ The management program can be used by a bookstore clerk. The program allows the 
 
 ### Executing program
 
-* How to run the program
+* Run the program
 * Step-by-step bullets
 ```
 code blocks for commands
