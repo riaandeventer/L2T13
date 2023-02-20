@@ -37,7 +37,7 @@ If you are asked for a login then it should be because you might have made a typ
 
 ##### 1.3   Run Program
 
-If your files copied successfully, there should be a folder garden_path when you enter the >dir command.
+If your files copied successfully, there should be a folder ebook_store when you enter the >dir command.
 Go to this directory with below command.
 ```
 >cd ebook_store
