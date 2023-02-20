@@ -80,4 +80,4 @@ Now we can run the program with below command:
 
 ## Authors
 
-Riaan Deventer  - [@riaandeventer](https://twitter.com/riaandeventer)
+Riaan Deventer  - [LinkedIn: @riaandeventer](https://www.linkedin.com/in/riaandeventer/)
