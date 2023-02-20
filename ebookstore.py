@@ -1,9 +1,7 @@
-# Software Engineer: RIAAN VAN DEVENTER (SN: RV22110005417)
-# This was programmed for the Software Engineering BOOTCAMP
+# Software Engineer: RIAAN DEVENTER
 # Written on 11 January 2023
 #
-# ************** L2T13 - TASK ASSIGNMENT **************  
-#
+#------------------------------------------------------------------------------------------------
 # - Create a program that can be used by a bookstore clerk. The program should allow the clerk to:
 #   * add new books to the database
 #   * update book information
