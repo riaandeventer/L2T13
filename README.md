@@ -21,7 +21,32 @@ The management program can be used by a bookstore clerk. The program allows the 
 
 ### Installation
 
-* Create the executable from ebookstore.py and place in same folder as InventoryReset.txt
+### 1.  Implementing the program in a virtual environment.
+
+##### 1.1   Dependencies
+
+The virtual environment requires the installation of python.
+
+##### 1.2   Copying Files
+
+Go to the directory or folder where you want to install the project and enter the following command in the command line:
+```
+>git clone https://github.com/riaandeventer/ebook_store
+```
+If you are asked for a login then it should be because you might have made a typing error with the link.
+
+##### 1.3   Run Program
+
+If your files copied successfully, there should be a folder garden_path when you enter the >dir command.
+Go to this directory with below command.
+```
+>cd ebook_store
+```
+Now we can run the program with below command:
+```
+>python ebookstore.py
+```
+
 * The file InventoryReset.txt contains the book data that you want to load initially. Update the information detail and note the format.
 * The program will read in this file through a menu option and the database with table will be created or updated if it already exists.
 * After initial load, you will notice the database file ebookstore_db in the folder.
