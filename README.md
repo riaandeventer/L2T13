@@ -25,7 +25,7 @@ The management program can be used by a bookstore clerk. The program allows the 
 
 ##### 1.1   Dependencies
 
-The virtual environment requires the installation of python.
+The virtual environment requires the installation of python & tabulate.
 
 ##### 1.2   Copying Files
 
@@ -37,7 +37,7 @@ If you are asked for a login then it should be because you might have made a typ
 
 ##### 1.3   Run Program
 
-If your files copied successfully, there should be a folder ebook_store when you enter the >dir command.
+If your files copied successfully, there should be a folder ebook_store when you (for windows) enter the >dir command.
 Go to this directory with below command.
 ```
 >cd ebook_store
